@@ -1,7 +1,7 @@
 Folding-Navigation-Drawer 
 =========================
 Folding-Navigation-Drawer is an project that allows developers to add Fold effect to Navigation Drawer.
-
+Branch off code from #DevBytes on Folding Layout is from +Daniel Olshansky.
 
 
 
