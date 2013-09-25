@@ -1,18 +1,14 @@
-Folding-Navigation-Drawer Library
+Folding-Navigation-Drawer 
 =========================
-Folding-Navigation-Drawer is an Open Source Android library that allows developers to add Fold effect to Navigation Drawer. Feel free to use it all you want in your Android apps provided that you cite this project and include the license in your app.
+Folding-Navigation-Drawer is an project that allows developers to add Fold effect to Navigation Drawer.
 
 
 
-Developed By
-============
 
-* Priboi Tiberiu - <tibi1712@gmail.com>
 
 License
 =======
 
-    Copyright 2013 Priboi Tiberiu
 
 
     Licensed under the Apache License, Version 2.0 (the "License");
