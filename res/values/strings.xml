@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ Copyright (C) 2013 Priboi Tiberiu
+ Copyright (C) 2013 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+
+    <string name="app_name">Folding Library</string>
+    <string name="title_activity_fold">FoldActivity</string>
+    <string name="horizontal">Horizontal</string>
+    <string name="vertical">Vertical</string>
+    <string name="num_of_folds">Number Of Folds</string>
+    <string name="animate">Animate</string>
+    <string name="camera_feed">Camera Feed</string>
+    <string name="static_image">Static Image</string>
+    <string name="sepia_effect_off">Sepia Off</string>
+
+    <string-array name="num_of_folds_array">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+    <string-array name="animal_array">
+        <item>Bear</item>
+        <item>Bird</item>
+        <item>Cat</item>
+        <item>Iguana</item>
+        <item>Tigers</item>
+    </string-array>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="action_websearch">Web search</string>
+    <string name="app_not_available">Sorry, there\'s no web browser available</string>
+    <string name="title_activity_main">Folding Library</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="app_folding">FoldingLayout</string>
+    <string name="app_foldingdrawer">FoldingDrawerLayout</string>
+    <string name="app_foldingpanel">FoldingPanelLayout</string>
+
+</resources>
