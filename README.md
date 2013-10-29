@@ -1,9 +1,7 @@
-Folding-Navigation-Drawer 
-=========================
-Folding-Navigation-Drawer is an project that allows developers to add Fold effect to Navigation Drawer.
 
-Branch off code from #DevBytes on Folding Layout is from +Daniel Olshansky.
-
+FoldingNavigationDrawer-Android Sample ([Play Store Demo][1])
+=====================
+This is a sample project present how to use Folding-Android to add Folding Efect to Navigation Drawer.
 
 
 
