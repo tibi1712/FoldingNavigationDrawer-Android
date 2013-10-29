@@ -22,4 +22,4 @@ License
     See the License for the specific language governing permissions and
     limitations under the License.
 
-	[1]: https://play.google.com/store/apps/details?id=com.ptr.folding.sample
+[1]: https://play.google.com/store/apps/details?id=com.ptr.folding.sample
